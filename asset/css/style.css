@@ -1,0 +1,45 @@
+/*   */
+body{
+background-color: darkseagreen;
+/*border:dotted 10px lightpink;*/
+margin: 20px auto;
+}
+header{
+background-color:rgb(119,90,90,1) ;
+position: fixed;
+top: 0;
+right: 0;
+width: 100%;
+}
+section {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    padding: 5px 10px;
+    border: solid;
+margin-top: 73px;
+
+}
+article{
+    font-size: 15px;
+    line-height: 15px;
+}
+nav > ul > li{
+    display:inline-block;
+    padding: 10px 3px;
+    font-size: 20px;
+}
+nav> ul > li > a{
+    text-decoration: none;
+}
+.title{
+    font-size: 23px;
+    font-weight: 500;
+}
+.date{
+    font-size: 15px;
+    text-transform: uppercase;
+}
+img{
+    float: left;
+    margin: 10px 10px;
+    
+}
